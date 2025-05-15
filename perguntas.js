@@ -21,9 +21,3 @@ criaCartao(
     'Quais são os cromossomos que determinam o sexo masculino?',
     'Os Y'
 )
-
-criaCartão(
-    'Química',
-    'Qual o metal cujo símbolo químico é o Au?',
-    'Ouro'
-    )
