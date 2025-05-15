@@ -1,23 +1,29 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filosofia',
+    'De quem é a famosa frase “Penso, logo existo”?',
+    'Descartes'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Historia',
+    'Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
+    'João Goulart'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Fisíca',
+    'Qual a velocidade da luz?',
+    '299.792.458 m/s'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Ciênca',
+    'Quais são os cromossomos que determinam o sexo masculino?',
+    'Os Y'
 )
+
+criaCartão(
+    'Química',
+    'Qual o metal cujo símbolo químico é o Au?',
+    'Ouro'
+    )
